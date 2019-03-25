@@ -244,7 +244,7 @@ module.exports = function normalizeComponent (
   ja: {
     dayNames: ["日", "月", "火", "水", "木", "金", "土"],
     monthNames: ["1月", "2月", "3月", "4月", "5月", "6月", "7月", "8月", "9月", "10月", "11月", "12月"],
-    format: 'M月 yyyy',
+    format: 'yyyy年MM月',
     fullFormat: 'yyyy/MM/dd',
     dayEventsTitle: '全てのイベント',
     notHaveEvents: 'イベントはありません'
